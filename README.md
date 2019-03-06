@@ -1,2 +1,5 @@
 # Programming-Reactive-Systems-solutions
-Pair programming 
+Pair programming by:
+- https://github.com/PedroCorreiaLuis
+- https://github.com/RuiGSValentelente
+
